@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "94016135164",
+    "project_id": "valorantplayer-list",
+    "storage_bucket": "valorantplayer-list.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94016135164:android:01039921825b9ef9dedc79",
+        "android_client_info": {
+          "package_name": "th.ac.kku.cis.mobileapp.valorantplayer_list"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94016135164-thv6n9m3eeghikrd84iri5nj5mruvetj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "th.ac.kku.cis.mobileapp.valorantplayer_list",
+            "certificate_hash": "9a585ca39e6bdd5ee1d45641204cca18e0a2ce87"
+          }
+        },
+        {
+          "client_id": "94016135164-gnijf8a5reiqjebp8b59cqhjmj255ep2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl_KbG6POL-xwXXYe-2nayAB_6iK-mU1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94016135164-gnijf8a5reiqjebp8b59cqhjmj255ep2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
